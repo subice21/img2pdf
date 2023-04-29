@@ -57,7 +57,7 @@ def upload_file():
     <!doctype html>
     <html>
         <head>
-            <title>Upload new File</title>
+            <title>Convert Imege 2 Pdf</title>
         <script>
             function readURL(input) {
                 if (input.files && input.files[0]) {
